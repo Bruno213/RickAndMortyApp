@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="ChipStyle" parent="Widget.MaterialComponents.Chip.Choice">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/chip_selector_color</item>
+        <item name="chipStrokeColor">@color/chip_selector_color</item>
+        <item name="chipStrokeWidth">2dp</item>
+        <item name="chipCornerRadius">5dp</item>
+        <item name="chipBackgroundColor">@color/black_light</item>
+
+    </style>
+
+    <style name="RadioButtonStyle" parent="Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:button">@null</item>
+        <item name="android:textColor">#585758</item>
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:layout_marginEnd">12dp</item>
+    </style>
+
+    <style name="TextColor" >
+        <item name="android:textColor">@color/text_blue_color</item>
+    </style>
+</resources>

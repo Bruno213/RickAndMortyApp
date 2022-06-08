@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Rick and Morty API</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="search_hint">Search</string>
+    <string name="txt_characters">Characters</string>
+    <string name="text_reset">Reset</string>
+    <string name="title_filter">Filter</string>
+    <string name="text_error">%1$d - Characters not found</string>
+
+    <string name="alive">Alive</string>
+    <string name="dead">Dead</string>
+    <string name="unknown">Unknown</string>
+    <string name="txt_gender">Gender</string>
+    <string name="title_apply">Apply</string>
+
+    <string name="txt_checkbox_female">Female</string>
+    <string name="txt_checkbox_genderless">Genderless</string>
+    <string name="txt_checkbox_male">Male</string>
+    <string name="txt_checkbox_unknown">unknown</string>
+
+    <string name="male">Male</string>
+    <string name="title_origin">Origin</string>
+    <string name="title_location">Location</string>
+    <string name="txt_location">Earth (Replacement Dimension)</string>
+    <string name="title_episodes">Episodes</string>
+</resources>
